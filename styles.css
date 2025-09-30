@@ -4,7 +4,7 @@
   --surface:#121212;
   --text:#f6f6f6;
   --muted:#cfcfcf;
-  --accent:#b69b63; /* warm vineyard gold */
+  --accent:#b69b63;
   --maxw:920px;
 }
 *{box-sizing:border-box}
